@@ -7,6 +7,11 @@ A professional, elegant static web application for road safety and route risk an
 ![Map](https://img.shields.io/badge/map-Leaflet-green)
 
 ---
+## 📌 Problem Statement — RoadWatch
+
+Road accidents continue to be one of the leading causes of fatalities and injuries due to unsafe road conditions, traffic congestion, poor weather visibility, and lack of real-time risk awareness among drivers. Existing navigation systems primarily focus on finding the fastest route rather than the safest one, leaving users unaware of accident-prone zones and hazardous driving conditions.
+
+Under the *RoadWatch* category, this project aims to develop an AI-powered intelligent road safety platform that predicts road risk levels using traffic patterns, weather conditions, and accident hotspot analysis. The system classifies routes into Safe, Moderate, and Risky categories while providing real-time safety recommendations and awareness through an AI-based assistant. The solution is designed to improve driver decision-making, promote safer travel, and contribute toward reducing road accidents through predictive road monitoring and intelligent safety analytics.
 
 ## ✨ Features
 
