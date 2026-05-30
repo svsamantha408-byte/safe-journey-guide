@@ -185,6 +185,15 @@ Then visit `http://localhost:8000`
 
 ---
 
+## SCREENSHOT
+
+<img width="1826" height="854" alt="Screenshot 2026-05-30 153904" src="https://github.com/user-attachments/assets/ef6b428c-6ea9-455b-b9df-ea6b21726c0f" />
+<img width="1819" height="855" alt="Screenshot 2026-05-30 153929" src="https://github.com/user-attachments/assets/f7a7d4d2-2867-418e-a418-08720a2c2cab" />
+<img width="1828" height="846" alt="Screenshot 2026-05-30 153946" src="https://github.com/user-attachments/assets/f4ff6b8c-742c-4d73-9e40-7cc24eaf1c5a" />
+<img width="1825" height="848" alt="Screenshot 2026-05-30 154011" src="https://github.com/user-attachments/assets/3b958cd9-4348-4f2b-9808-d9e274ff7901" />
+<img width="1830" height="863" alt="Screenshot 2026-05-30 154029" src="https://github.com/user-attachments/assets/b0320ae2-72c3-421e-a905-7f02c513b065" />
+
+
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
